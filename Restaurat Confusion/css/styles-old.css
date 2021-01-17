@@ -1,0 +1,37 @@
+.row-content {
+  padding: 50px 0px 50px 0px;
+}
+.footer {
+  background: #d1c4e9;
+}
+.jumbotron {
+  background: #9575cd;
+}
+.container > .row > .col > .carousel {
+  background: #512DA8;
+  box-shadow: 0 8px 8px 0  rgba(0,0,0,0.7);
+}
+.container > .row > .col > .carousel .carousel-item {
+  height: 250px;
+}
+.container > .row > .col > .carousel .carousel-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 250px;
+}
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
+#loginClose {
+  color:  #e1ccf0;
+}
+.modal-body {
+  background:  #e1ccf0;
+}
+#reserveClose {
+  color:  #e1ccf0;
+}
